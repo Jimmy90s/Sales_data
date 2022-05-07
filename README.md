@@ -1,5 +1,6 @@
 # Sales_data
-
+Sales Data Dashboard Portfolio Project
+Tools Used: SQL Server, Dbeaver, Tableau
 Skills Used: - Importing a file into SQL Server Database
              - SQL Aggregate Functions
              - SQL Window Functions
